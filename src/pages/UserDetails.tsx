@@ -15,7 +15,6 @@ import {
   GlobeIcon,
   MailIcon,
   PencilIcon,
-  PhoneIcon,
   TrashIcon,
   MapPinIcon,
 } from "../components/Icons";
